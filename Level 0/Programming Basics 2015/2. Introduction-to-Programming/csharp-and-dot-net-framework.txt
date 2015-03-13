@@ -1,0 +1,1 @@
+C# is a strong OOP language.\n.NET is framework.C# use .NET Framework libraries. .NET is environment, not programming language.

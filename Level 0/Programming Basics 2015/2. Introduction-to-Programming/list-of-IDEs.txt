@@ -1,0 +1,19 @@
+Visual Studio
+	 It is used to develop computer programs for Microsoft Windows, as well as web sites,
+	 web applications and web services. 
+	 Visual Studio uses Microsoft software development platforms such as Windows API, Windows Forms, 
+	 Windows Presentation Foundation, Windows Store and Microsoft Silverlight. 
+	 It can produce both native code and managed code.
+	 Visual Studio includes a code editor supporting IntelliSense (the code completion component) 
+	 as well as code refactoring.
+	 The integrated debugger works both as a source-level debugger and a machine-level debugger.
+Eclipse
+	It contains a base workspace and an extensible plug-in system for customizing the environment. 
+	Written mostly in Java, Eclipse can be used to develop applications.
+NetBeans
+	For developing primarily with Java, but also with other languages, in particular PHP, C/C++, and HTML5.
+	It is also an application platform framework for Java desktop applications and others.
+	The NetBeans IDE is written in Java and can run on Windows, OS X, Linux,
+	Solaris and other platforms supporting a compatible JVM.
+	The NetBeans Platform allows applications to be developed from a set of modular software components called modules. 
+	Applications based on the NetBeans Platform (including the NetBeans IDE itself) can be extended by third party developers.
